@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>select</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1537.000000, -1142.000000)">
+            <g id="select" transform="translate(1537.000000, 1142.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="30.5" y="60.5" width="179" height="91" rx="4"></rect>
+                <rect id="选择背景色" fill="#E5F6FF" x="31" y="92" width="178" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="43" y="83">Ail</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="43" y="139">Aimless</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="43" y="111">Ailment</tspan>
+                </text>
+                <rect id="矩形" stroke="#40A9FF" stroke-width="2" fill="#FFFFFF" x="31" y="25" width="178" height="26" rx="4"></rect>
+                <path d="M186.095478,35.3227502 C186.324876,35.0933513 186.685842,35.0757053 186.935481,35.269812 L186.995432,35.3227502 L191,39.3268182 L195.004568,35.3227502 C195.233967,35.0933513 195.594933,35.0757053 195.844572,35.269812 L195.904522,35.3227502 C196.133921,35.5521491 196.151567,35.9131143 195.957461,36.1627542 L195.904522,36.2227043 L191.449977,40.6772498 C191.220578,40.9066487 190.859613,40.9242947 190.609973,40.730188 L190.550023,40.6772498 L186.095478,36.2227043 C185.846962,35.9741889 185.846962,35.5712657 186.095478,35.3227502 Z" id="路径" fill="#40A9FF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="43" y="43">Ai</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

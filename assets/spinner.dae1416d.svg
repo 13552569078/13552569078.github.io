@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>spinner</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-488.000000, -3338.000000)">
+            <g id="spinner" transform="translate(488.000000, 3338.000000)">
+                <path d="M50,58.2916667 C42.4290966,58.2916667 36.2916667,64.4290966 36.2916667,72 C36.2916667,79.5709034 42.4290966,85.7083333 50,85.7083333 C57.5709034,85.7083333 63.7083333,79.5709034 63.7083333,72 C63.7083333,64.4290966 57.5709034,58.2916667 50,58.2916667 Z M50,60.0416667 C56.6044051,60.0416667 61.9583333,65.3955949 61.9583333,72 C61.9583333,78.6044051 56.6044051,83.9583333 50,83.9583333 C43.3955949,83.9583333 38.0416667,78.6044051 38.0416667,72 C38.0416667,65.3955949 43.3955949,60.0416667 50,60.0416667 Z" id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.200000003"></path>
+                <path d="M62.8333333,71.125 C63.3165825,71.125 63.7083333,71.5167508 63.7083333,72 C63.7083333,79.5709034 57.5709034,85.7083333 50,85.7083333 C49.5167508,85.7083333 49.125,85.3165825 49.125,84.8333333 C49.125,84.3500842 49.5167508,83.9583333 50,83.9583333 C56.6044051,83.9583333 61.9583333,78.6044051 61.9583333,72 C61.9583333,71.5167508 62.3500842,71.125 62.8333333,71.125 Z" id="路径" fill="#40A9FF" fill-rule="nonzero"></path>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.300000012" cx="91.6190476" cy="63.6190476" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="91.6190476" cy="72" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="100" cy="63.6190476" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" cx="100" cy="72" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" cx="108.380952" cy="63.6190476" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="108.380952" cy="72" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" cx="91.6190476" cy="80.3809524" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="100" cy="80.3809524" r="2.61904762"></circle>
+                <circle id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.300000012" cx="108.380952" cy="80.3809524" r="2.61904762"></circle>
+                <rect id="矩形" fill="#40A9FF" fill-rule="nonzero" x="141.333333" y="64.7857143" width="2.66666667" height="13.428571" rx="1.06666667"></rect>
+                <rect id="矩形" fill="#40A9FF" fill-rule="nonzero" x="136" y="61.7857143" width="2.66666667" height="19.428571" rx="1.06666667"></rect>
+                <rect id="矩形" fill="#40A9FF" fill-rule="nonzero" x="146.666667" y="59" width="2.66666667" height="25" rx="1.06666667"></rect>
+                <rect id="矩形" fill="#40A9FF" fill-rule="nonzero" x="157.333333" y="61.7857143" width="2.66666667" height="19.428571" rx="1.06666667"></rect>
+                <rect id="矩形" fill="#40A9FF" fill-rule="nonzero" x="152" y="64.7857143" width="2.66666667" height="13.428571" rx="1.06666667"></rect>
+                <ellipse id="椭圆形" fill="#40A9FF" fill-rule="nonzero" cx="196.003333" cy="71.5" rx="3.33333333" ry="3.5"></ellipse>
+                <ellipse id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="186" cy="71.5" rx="2" ry="2.1"></ellipse>
+                <ellipse id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.600000024" cx="206.006667" cy="71.5" rx="2" ry="2.1"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

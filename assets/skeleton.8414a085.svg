@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>skeleton</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-129.000000, -2700.000000)">
+            <g id="skeleton" transform="translate(129.000000, 2700.000000)">
+                <rect id="选择背景色" fill="#E5F6FF" x="36" y="26" width="61" height="60" rx="4"></rect>
+                <circle id="椭圆形" fill="#3699FF" opacity="0.478291103" cx="60.375" cy="50.375" r="3.375"></circle>
+                <path d="M79.5,40.25 C80.7426407,40.25 81.75,41.2573593 81.75,42.5 L81.75,69.5 C81.75,70.7426407 80.7426407,71.75 79.5,71.75 L52.5,71.75 C51.2573593,71.75 50.25,70.7426407 50.25,69.5 L50.25,42.5 C50.25,41.2573593 51.2573593,40.25 52.5,40.25 L79.5,40.25 Z M79.5,42.5 L52.5,42.5 L52.5,69.5 L52.599,69.5 L59.849763,59.0594884 L59.849763,59.0594884 C60.1243471,58.6995331 60.5910903,58.5965564 60.9681479,58.7785145 L61.1234314,58.8740231 L65.3367099,62.0889432 C65.6976482,62.3316007 66.1709127,62.278033 66.4693737,61.9845061 L66.5857463,61.8441816 L79.5,42.6305 L79.5,42.5 Z" id="形状" fill="#3699FF"></path>
+                <rect id="矩形备份-2" fill="#E5F6FF" x="36" y="120" width="193" height="12"></rect>
+                <rect id="矩形备份-11" fill="#E5F6FF" x="36" y="98" width="193" height="12"></rect>
+                <rect id="矩形备份-4" fill="#E5F6FF" x="36" y="142" width="127" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

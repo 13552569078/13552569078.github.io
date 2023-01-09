@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>badge</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-129.000000, -2080.000000)">
+            <g id="badge" transform="translate(129.000000, 2080.000000)">
+                <circle id="椭圆形" fill="#E5F6FF" cx="73" cy="90" r="18"></circle>
+                <rect id="矩形" fill="#E5F6FF" x="115" y="72" width="36" height="36" rx="1"></rect>
+                <rect id="矩形备份-3" fill="#E5F6FF" x="175" y="72" width="36" height="36" rx="6"></rect>
+                <rect id="选择背景色" fill="#40A9FF" x="143" y="64" width="16" height="16" rx="8"></rect>
+                <text id="text" font-size="11" line-spacing="12" fill="#FFFFFF">
+                    <tspan x="147.941162" y="76">8</tspan>
+                </text>
+                <rect id="选择背景色" fill="#40A9FF" x="201" y="64" width="16" height="16" rx="4"></rect>
+                <text id="text" font-size="11" line-spacing="12" fill="#FFFFFF">
+                    <tspan x="205.941162" y="76">8</tspan>
+                </text>
+                <rect id="选择背景色" fill="#40A9FF" x="84" y="72" width="8" height="8" rx="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

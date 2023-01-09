@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transfer</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1527.000000, -1434.000000)">
+            <g id="transfer" transform="translate(1527.000000, 1434.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="16" y="16" width="130" height="148" rx="4"></rect>
+                <path d="M20,16 L142,16 C144.209139,16 146,17.790861 146,20 L146,44 L146,44 L16,44 L16,20 C16,17.790861 17.790861,16 20,16 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="28" y="35">Project Title</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="47" y="95">Group </tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="47" y="67">List</tspan>
+                </text>
+                <rect id="选择背景色" x="16" y="132" width="130" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="47" y="151">Form</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="16" y="104" width="130" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="47" y="123">Text</tspan>
+                </text>
+                <rect id="选择背景色" fill="#40A9FF" x="26" y="111" width="14" height="14" rx="3.11111111"></rect>
+                <path d="M35.8400502,115.204699 C36.0170869,114.996421 36.3294465,114.971094 36.537725,115.148131 C36.729982,115.31155 36.7663509,115.590273 36.6315644,115.796003 L36.5942932,115.845806 L32.3872225,120.795301 C32.2212388,120.990576 31.9369851,121.024586 31.7310208,120.883582 L31.6812745,120.844677 L29.4540017,118.864879 C29.2496951,118.683273 29.2312925,118.37043 29.4128984,118.166123 C29.5805346,117.977532 29.8599949,117.947345 30.0626896,118.086655 L30.1116548,118.12502 L31.9606061,119.768455 L35.8400502,115.204699 Z" id="路径" fill="#FFFFFF"></path>
+                <rect id="选择背景色" fill="#40A9FF" x="26" y="139" width="14" height="14" rx="3.11111111"></rect>
+                <path d="M35.8400502,143.204699 C36.0170869,142.996421 36.3294465,142.971094 36.537725,143.148131 C36.729982,143.31155 36.7663509,143.590273 36.6315644,143.796003 L36.5942932,143.845806 L32.3872225,148.795301 C32.2212388,148.990576 31.9369851,149.024586 31.7310208,148.883582 L31.6812745,148.844677 L29.4540017,146.864879 C29.2496951,146.683273 29.2312925,146.37043 29.4128984,146.166123 C29.5805346,145.977532 29.8599949,145.947345 30.0626896,146.086655 L30.1116548,146.12502 L31.9606061,147.768455 L35.8400502,143.204699 Z" id="路径" fill="#FFFFFF"></path>
+                <rect id="选择背景色" stroke="#40A9FF" fill="#FFFFFF" x="26.5" y="83.5" width="13" height="13" rx="3.11111111"></rect>
+                <rect id="选择背景色" stroke="#40A9FF" fill="#FFFFFF" x="26.5" y="55.5" width="13" height="13" rx="3.11111111"></rect>
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="184" y="16" width="130" height="148" rx="4"></rect>
+                <path d="M188,16 L310,16 C312.209139,16 314,17.790861 314,20 L314,44 L314,44 L184,44 L184,20 C184,17.790861 185.790861,16 188,16 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="196" y="35">Project Title</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="215" y="95">Switch</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="215" y="123">Input</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="215" y="67">Select</tspan>
+                </text>
+                <rect id="选择背景色" stroke="#40A9FF" fill="#FFFFFF" x="194.5" y="83.5" width="13" height="13" rx="3.11111111"></rect>
+                <rect id="选择背景色" stroke="#40A9FF" fill="#FFFFFF" x="194.5" y="111.5" width="13" height="13" rx="3.11111111"></rect>
+                <rect id="选择背景色" stroke="#40A9FF" fill="#FFFFFF" x="194.5" y="55.5" width="13" height="13" rx="3.11111111"></rect>
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="155" y="68" width="20" height="19.8947368" rx="8.88888889"></rect>
+                <path d="M165.454545,74.3301435 L161.818182,77.9473684 L165.454545,81.5645933 M168.181818,77.9473684 L162.272727,77.9473684" id="形状结合" stroke="#3699FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="155" y="93" width="20" height="19.8947368" rx="8.88888889"></rect>
+                <path d="M164.545455,106.564593 L168.181818,102.947368 L164.545455,99.3301435 M161.818182,102.947368 L167.727273,102.947368" id="形状结合" stroke="#3699FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

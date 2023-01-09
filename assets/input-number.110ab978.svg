@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="160px" viewBox="0 0 245 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>inputnumber</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-837.000000, -1134.000000)">
+            <g id="inputnumber" transform="translate(837.000000, 1134.000000)">
+                <g id="编组-2备份-2" transform="translate(55.000000, 24.000000)">
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="32.5" y="0.5" width="71" height="27" rx="4"></rect>
+                    <text id="输入文本" font-size="14" fill="#40A9FF">
+                        <tspan x="63.8" y="19">8</tspan>
+                    </text>
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="0.5" y="0.5" width="27" height="27" rx="4"></rect>
+                    <path d="M8.90909091,14 L19.0909091,14 M14,19.0909091 L14,8.90909091" id="形状结合" stroke="#40A9FF" stroke-width="1.25" fill-opacity="0.2" fill="#3699FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="108.5" y="0.5" width="27" height="27" rx="4"></rect>
+                    <line x1="116.909091" y1="14" x2="127.090909" y2="14" id="路径-27" stroke="#40A9FF" stroke-width="1.25" fill-opacity="0.2" fill="#3699FF" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+                <g id="编组-2备份-3" transform="translate(55.000000, 68.000000)">
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="32.5" y="0.5" width="71" height="27" rx="13.5"></rect>
+                    <text id="输入文本" font-size="14" fill="#40A9FF">
+                        <tspan x="63.8" y="19">8</tspan>
+                    </text>
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="0.5" y="0.5" width="27" height="27" rx="13.5"></rect>
+                    <path d="M8.90909091,14 L19.0909091,14 M14,19.0909091 L14,8.90909091" id="形状结合" stroke="#40A9FF" stroke-width="1.25" fill-opacity="0.2" fill="#3699FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="108.5" y="0.5" width="27" height="27" rx="13.5"></rect>
+                    <line x1="116.909091" y1="14" x2="127.090909" y2="14" id="路径-27" stroke="#40A9FF" stroke-width="1.25" fill-opacity="0.2" fill="#3699FF" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+                <g id="编组-2备份" transform="translate(55.000000, 112.000000)">
+                    <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="0.5" y="0.5" width="99" height="27" rx="4"></rect>
+                    <text id="输入文本" font-size="14" fill="#40A9FF">
+                        <tspan x="45.8" y="19">8</tspan>
+                    </text>
+                    <path d="M132,0.5 C132.966498,0.5 133.841498,0.891750844 134.474874,1.52512627 C135.108249,2.15850169 135.5,3.03350169 135.5,4 L135.5,4 L135.5,14.5 L104.5,14.5 L104.5,4 C104.5,3.03350169 104.891751,2.15850169 105.525126,1.52512627 C106.158502,0.891750844 107.033502,0.5 108,0.5 L108,0.5 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                    <polygon id="路径" fill="#40A9FF" fill-rule="nonzero" points="116.768 6.898 116.768 7.85 123.232 7.85 123.232 6.898"></polygon>
+                    <path d="M135.5,14.5 L135.5,24 C135.5,24.9664983 135.108249,25.8414983 134.474874,26.4748737 C133.841498,27.1082492 132.966498,27.5 132,27.5 L132,27.5 L108,27.5 C107.033502,27.5 106.158502,27.1082492 105.525126,26.4748737 C104.891751,25.8414983 104.5,24.9664983 104.5,24 L104.5,24 L104.5,14.5 L135.5,14.5 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                    <polygon id="路径" fill="#40A9FF" fill-rule="nonzero" points="119.5712 17.846 119.5712 20.898 116.768 20.898 116.768 21.85 119.5712 21.85 119.5712 24.916 120.4416 24.916 120.4416 21.85 123.232 21.85 123.232 20.898 120.4416 20.898 120.4416 17.846"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

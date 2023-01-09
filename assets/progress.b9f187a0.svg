@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>progress</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-139.000000, -2408.000000)">
+            <g id="progress" transform="translate(139.000000, 2408.000000)">
+                <rect id="矩形备份-5" fill="#E5F6FF" x="32" y="38" width="148" height="8" rx="4"></rect>
+                <rect id="矩形备份-7" fill="#E5F6FF" x="32" y="68" width="148" height="8" rx="4"></rect>
+                <rect id="矩形备份-6" fill="#40A9FF" x="32" y="38" width="52.8301887" height="8" rx="4"></rect>
+                <rect id="矩形备份-8" fill="#40A9FF" x="32" y="68" width="118" height="8" rx="4"></rect>
+                <rect id="矩形备份-10" fill="#E5F6FF" x="32" y="98" width="148" height="8" rx="4"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="188" y="46">36%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="188" y="76">78%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="188" y="106">52%</tspan>
+                </text>
+                <rect id="矩形备份-9" fill="#40A9FF" x="32" y="98" width="82.0754717" height="8" rx="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

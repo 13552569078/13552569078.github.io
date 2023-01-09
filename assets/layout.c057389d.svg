@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -194.000000)">
+            <g id="layout" transform="translate(1176.000000, 194.000000)">
+                <rect id="矩形备份-2" fill="#40A9FF" x="24" y="22" width="217" height="24"></rect>
+                <rect id="矩形备份-13" fill="#40A9FF" opacity="0.5" x="99" y="70" width="142" height="64"></rect>
+                <rect id="矩形备份-16" fill="#40A9FF" opacity="0.699999988" x="24" y="134" width="217" height="24"></rect>
+                <rect id="矩形备份-14" fill="#40A9FF" x="24" y="70" width="75" height="64"></rect>
+                <rect id="矩形备份-12" fill="#40A9FF" opacity="0.699999988" x="24" y="46" width="217" height="24"></rect>
+                <text id="输入文本" font-size="12" line-spacing="200" fill="#FFFFFF">
+                    <tspan x="32" y="38">Header</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#FFFFFF">
+                    <tspan x="32" y="62">Sub-header</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#FFFFFF">
+                    <tspan x="32" y="106">Aside</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#FFFFFF">
+                    <tspan x="32" y="150">Footer</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#FFFFFF">
+                    <tspan x="109" y="106">Main</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>button</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-488.000000, -1723.000000)">
+            <g transform="translate(488.000000, 1723.000000)">
+                <g transform="translate(58.000000, 22.000000)">
+                    <rect fill="#40A9FF" x="0" y="22" width="130" height="56" rx="6.2"></rect>
+                    <circle fill="#FFFFFF" opacity="0.2" cx="65" cy="50" r="50"></circle>
+                    <circle fill="#FFFFFF" opacity="0.2" cx="65" cy="50" r="22"></circle>
+                    <text font-size="18" fill="#FFFFFF">
+                        <tspan x="38" y="57">Ripple</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

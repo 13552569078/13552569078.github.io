@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>switch</title>
+    <defs>
+        <path d="M83,62 C88.5228475,62 93,66.4771525 93,72 C93,77.5228475 88.5228475,82 83,82 C77.4771525,82 73,77.5228475 73,72 C73,66.4771525 77.4771525,62 83,62 Z" id="path-3"></path>
+        <filter x="-20.0%" y="-20.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M163,62 C168.522847,62 173,66.4771525 173,72 C173,77.5228475 168.522847,82 163,82 C157.477153,82 153,77.5228475 153,72 C153,66.4771525 157.477153,62 163,62 Z" id="path-5"></path>
+        <filter x="-20.0%" y="-20.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-489.000000, -1452.000000)">
+            <g id="switch" transform="translate(489.000000, 1452.000000)">
+                <use id="选择背景色" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="选择背景色" fill="#E5F6FF" x="71" y="60" width="44" height="24" rx="12"></rect>
+                <g id="手柄">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <rect id="选择背景色" fill="#40A9FF" transform="translate(153.000000, 72.000000) scale(-1, 1) translate(-153.000000, -72.000000) " x="131" y="60" width="44" height="24" rx="12"></rect>
+                <g id="手柄" transform="translate(163.000000, 72.000000) scale(-1, 1) translate(-163.000000, -72.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

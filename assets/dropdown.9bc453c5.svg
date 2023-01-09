@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dropdown</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1525.000000, -3320.000000)">
+            <g id="dropdown" transform="translate(1525.000000, 3320.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="42" y="60" width="180" height="127" rx="4"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="55" y="84">Remove </tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="55" y="114">Edit</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="55" y="144">Copy</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="55" y="174">Shear</tspan>
+                </text>
+                <rect id="选择背景色" fill="#40A9FF" x="42" y="24" width="77" height="28" rx="4"></rect>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" points="96.0909091 35.8181818 101 40.1818182 105.909091 35.8181818"></polyline>
+                <text id="输入文本" font-size="12" fill="#FFFFFF">
+                    <tspan x="55.164" y="42">Menu</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

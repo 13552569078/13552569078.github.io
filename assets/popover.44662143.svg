@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>popover</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-837.000000, -2408.000000)">
+            <g id="popover" transform="translate(837.000000, 2408.000000)">
+                <rect id="矩形" fill="#E5F6FF" x="57" y="36" width="131" height="36" rx="6"></rect>
+                <polygon id="矩形" fill="#E5F6FF" points="130.5 72 122.5 80 114.5 72"></polygon>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="73" y="59">Text messages</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#40A9FF">
+                    <tspan x="90" y="100">Click Active</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

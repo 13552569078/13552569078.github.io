@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>timeline</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -2700.000000)">
+            <g id="timeline" transform="translate(1176.000000, 2700.000000)">
+                <line x1="28" y1="117" x2="119" y2="117" id="路径-5" stroke="#E5F6FF" stroke-width="2" stroke-linejoin="round"></line>
+                <circle id="选择填充色" fill="#E5F6FF" cx="28" cy="117" r="6"></circle>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="23" y="68">Begin</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#40A9FF">
+                    <tspan x="23" y="87">2021-04-15</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="108" y="68">Course</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#40A9FF">
+                    <tspan x="108" y="87">2021-04-15</tspan>
+                </text>
+                <line x1="120" y1="117" x2="202" y2="117" id="路径-5" stroke="#40A9FF" stroke-width="2" stroke-linejoin="round"></line>
+                <rect id="选择背景色" fill="#40A9FF" x="108" y="105" width="24" height="24" rx="12"></rect>
+                <path d="M124.001967,113.244107 C124.281523,112.943901 124.763102,112.916861 125.077603,113.18371 C125.367911,113.430032 125.41438,113.840667 125.199933,114.138504 L125.140875,114.210453 L119.045642,120.755899 C118.775202,121.046314 118.318745,121.07932 118.006729,120.845647 L117.93744,120.786985 L114.889823,117.877897 C114.592281,117.59388 114.592281,117.133397 114.889823,116.84938 C115.164477,116.58721 115.596653,116.567043 115.895541,116.788879 L115.967318,116.84938 L118.443426,119.212364 L124.001967,113.244107 Z" id="选择颜色" fill="#FFFFFF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="193" y="68">Finish</tspan>
+                </text>
+                <text id="输入文本" font-size="12" fill="#40A9FF">
+                    <tspan x="193" y="87">2021-04-15</tspan>
+                </text>
+                <line x1="199" y1="117" x2="298" y2="117" id="路径-5" stroke="#E5F6FF" stroke-width="2" stroke-linejoin="round"></line>
+                <circle id="选择填充色" fill="#40A9FF" cx="199" cy="117" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

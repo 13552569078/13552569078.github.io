@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>carousel</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-827.000000, -2080.000000)">
+            <g id="carousel" transform="translate(827.000000, 2080.000000)">
+                <rect id="选择背景色" fill="#E5F6FF" x="29" y="26" width="207" height="128" rx="4"></rect>
+                <polyline id="路径" stroke="#40A9FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" transform="translate(47.000000, 89.936842) rotate(-90.000000) translate(-47.000000, -89.936842) " points="51.8832536 92.1186603 47 87.7550239 42.1167464 92.1186603"></polyline>
+                <polyline id="路径" stroke="#40A9FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" transform="translate(218.000000, 89.936842) rotate(-270.000000) translate(-218.000000, -89.936842) " points="222.883254 92.1186603 218 87.7550239 213.116746 92.1186603"></polyline>
+                <circle id="椭圆形" fill="#40A9FF" opacity="0.300000012" cx="118" cy="142" r="2"></circle>
+                <circle id="椭圆形备份" fill="#40A9FF" cx="126" cy="142" r="2"></circle>
+                <circle id="椭圆形备份-2" fill="#40A9FF" opacity="0.300000012" cx="134" cy="142" r="2"></circle>
+                <circle id="椭圆形备份-3" fill="#40A9FF" opacity="0.300000012" cx="142" cy="142" r="2"></circle>
+                <circle id="椭圆形备份-4" fill="#40A9FF" opacity="0.300000012" cx="150" cy="142" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

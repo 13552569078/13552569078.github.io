@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="166px" viewBox="0 0 265 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cascader</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -821.000000)">
+            <g id="cascader" transform="translate(1176.000000, 821.000000)">
+                <path d="M131.5,55.5 L131.5,146.5 L16,146.5 C15.0335017,146.5 14.1585017,146.108249 13.5251263,145.474874 C12.8917508,144.841498 12.5,143.966498 12.5,143 L12.5,143 L12.5,59 C12.5,58.0335017 12.8917508,57.1585017 13.5251263,56.5251263 C14.1585017,55.8917508 15.0335017,55.5 16,55.5 L16,55.5 L131.5,55.5 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                <path d="M247,55.5 C247.966498,55.5 248.841498,55.8917508 249.474874,56.5251263 C250.108249,57.1585017 250.5,58.0335017 250.5,59 L250.5,59 L250.5,143 C250.5,143.966498 250.108249,144.841498 249.474874,145.474874 C248.841498,146.108249 247.966498,146.5 247,146.5 L247,146.5 L131.5,146.5 L131.5,55.5 Z" id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="25" y="78">Ail</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="25" y="134">Aimless</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="13" y="87" width="118" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="25" y="106">Ailment</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="145" y="78">Ailment</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="145" y="106">Aimless</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="132" y="115" width="118" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="145" y="134">Aircondition</tspan>
+                </text>
+                <rect id="矩形" stroke="#40A9FF" stroke-width="2" fill="#FFFFFF" x="13" y="20" width="118" height="26" rx="4"></rect>
+                <path d="M108.095478,30.3227502 C108.324876,30.0933513 108.685842,30.0757053 108.935481,30.269812 L108.995432,30.3227502 L113,34.3268182 L117.004568,30.3227502 C117.233967,30.0933513 117.594933,30.0757053 117.844572,30.269812 L117.904522,30.3227502 C118.133921,30.5521491 118.151567,30.9131143 117.957461,31.1627542 L117.904522,31.2227043 L113.449977,35.6772498 C113.220578,35.9066487 112.859613,35.9242947 112.609973,35.730188 L112.550023,35.6772498 L108.095478,31.2227043 C107.846962,30.9741889 107.846962,30.5712657 108.095478,30.3227502 Z" id="路径" fill="#84A4F6"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="25" y="38">Ai</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

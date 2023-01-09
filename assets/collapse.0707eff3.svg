@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>collapse</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -2080.000000)">
+            <g id="collapse" transform="translate(1176.000000, 2080.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="32" y="18" width="200" height="80" rx="4"></rect>
+                <rect id="矩形备份-2" fill="#40A9FF" opacity="0.100391933" x="44" y="54" width="176" height="12"></rect>
+                <rect id="矩形备份-4" fill="#40A9FF" opacity="0.100391933" x="44" y="74" width="127" height="12"></rect>
+                <path d="M36,18 L228,18 C230.209139,18 232,19.790861 232,22 L232,42 L232,42 L32,42 L32,22 C32,19.790861 33.790861,18 36,18 Z" id="选择背景色" stroke="#C5E5FF" fill-opacity="0.49653252" fill="#E5F6FF"></path>
+                <polyline id="路径" stroke="#40A9FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" points="222.090909 31.7559809 218 28.138756 213.909091 31.7559809"></polyline>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="44" y="34">Project Title</tspan>
+                </text>
+                <rect id="选择背景色" stroke="#C5E5FF" fill-opacity="0.49653252" fill="#E5F6FF" x="32" y="106" width="200" height="24" rx="4"></rect>
+                <polyline id="路径" stroke="#40A9FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" points="213.909091 116.138756 218 119.755981 222.090909 116.138756"></polyline>
+                <rect id="选择背景色" stroke="#C5E5FF" fill-opacity="0.49653252" fill="#E5F6FF" x="32" y="138" width="200" height="24" rx="4"></rect>
+                <rect id="选择背景色" x="208" y="140" width="20" height="19.8947368" rx="8.88888889"></rect>
+                <polyline id="路径" stroke="#40A9FF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" points="213.909091 148.138756 218 151.755981 222.090909 148.138756"></polyline>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="44" y="122">Project Title</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="44" y="154">Project Title</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

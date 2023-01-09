@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>radio</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1186.000000, -1142.000000)">
+            <g id="radio" transform="translate(1186.000000, 1142.000000)">
+                <rect id="选择背景色" fill="#40A9FF" x="57" y="82" width="18" height="18" rx="9"></rect>
+                <rect id="选择颜色" fill="#FFFFFF" x="61.3333333" y="86.3333333" width="9.33333333" height="9.33333333" rx="4.66666667"></rect>
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="57" y="44" width="18" height="18" rx="9"></rect>
+                <rect id="选择颜色" fill="#FFFFFF" x="61.3333333" y="48.3333333" width="9.33333333" height="9.33333333" rx="4.66666667"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="85" y="58">Radio</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="85" y="96">Radio</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

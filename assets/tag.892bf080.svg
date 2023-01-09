@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="144px" viewBox="0 0 245 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tag</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="245" height="144" rx="2"></rect>
+        <rect id="path-3" x="30" y="60" width="56" height="24" rx="12"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56" height="24" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-488.000000, -2718.000000)">
+            <g id="tag" transform="translate(488.000000, 2718.000000)">
+                <rect id="选择背景色" fill="#E5F6FF" x="94" y="60" width="56" height="24" rx="12"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="105.788" y="76">Tag 2</tspan>
+                </text>
+                <rect id="选择背景色" stroke="#00B2FF" fill="#DBF2FF" x="158.5" y="60.5" width="55" height="23" rx="11.5"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="169.788" y="76">Tag 3</tspan>
+                </text>
+                <g id="选择背景色" stroke-dasharray="3" stroke="#00B2FF" stroke-width="2">
+                    <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="42.982" y="76">Tag 1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

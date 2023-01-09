@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>panel</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-827.000000, -194.000000)">
+            <g id="panel" transform="translate(827.000000, 194.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="22" y="22" width="221" height="136" rx="6"></rect>
+                <text font-size="14" fill="#84A4F6">
+                    <tspan x="116" y="95">Body</tspan>
+                </text>
+                <path d="M28,22 L237,22 C240.313708,22 243,24.6862915 243,28 L243,54 L243,54 L22,54 L22,28 C22,24.6862915 24.6862915,22 28,22 Z" id="选择背景色" stroke="#C5E5FF" fill-opacity="0.49653252" fill="#E5F6FF"></path>
+                <text font-size="14" fill="#84A4F6">
+                    <tspan x="39" y="43">Header</tspan>
+                </text>
+                <path d="M22,126 L243,126 L243,152 C243,155.313708 240.313708,158 237,158 L28,158 C24.6862915,158 22,155.313708 22,152 L22,126 L22,126 Z" id="选择背景色" stroke="#C5E5FF" fill-opacity="0.49653252" fill="#E5F6FF"></path>
+                <text font-size="14" fill="#84A4F6">
+                    <tspan x="39" y="147">Footer</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

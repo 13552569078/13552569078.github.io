@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>time-select</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -1723.000000)">
+            <g id="time-select" transform="translate(1176.000000, 1723.000000)">
+                <rect id="选择背景色" stroke="#C5E5FF" fill="#FFFFFF" x="43.5" y="62.5" width="179" height="91" rx="4"></rect>
+                <rect id="选择背景色" fill="#E5F6FF" x="44" y="94" width="178" height="28"></rect>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="57" y="85">08:40</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="57" y="141">08:50</tspan>
+                </text>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="57" y="113">08:45</tspan>
+                </text>
+                <rect id="矩形" stroke="#40A9FF" stroke-width="2" fill="#FFFFFF" x="44" y="27" width="178" height="26" rx="4"></rect>
+                <path d="M200.095478,37.3227502 C200.324876,37.0933513 200.685842,37.0757053 200.935481,37.269812 L200.995432,37.3227502 L205,41.3268182 L209.004568,37.3227502 C209.233967,37.0933513 209.594933,37.0757053 209.844572,37.269812 L209.904522,37.3227502 C210.133921,37.5521491 210.151567,37.9131143 209.957461,38.1627542 L209.904522,38.2227043 L205.449977,42.6772498 C205.220578,42.9066487 204.859613,42.9242947 204.609973,42.730188 L204.550023,42.6772498 L200.095478,38.2227043 C199.846962,37.9741889 199.846962,37.5712657 200.095478,37.3227502 Z" id="路径" fill="#40A9FF"></path>
+                <text id="输入文本" font-size="14" fill="#40A9FF">
+                    <tspan x="78" y="45">08:45</tspan>
+                </text>
+                <path d="M62,46.3636364 C65.5145393,46.3636364 68.3636364,43.5145393 68.3636364,40 C68.3636364,36.4854607 65.5145393,33.6363636 62,33.6363636 C58.4854607,33.6363636 55.6363636,36.4854607 55.6363636,40 C55.6363636,43.5145393 58.4854607,46.3636364 62,46.3636364 Z M62,36.1818182 L62,40 L64.5454545,41.2727273" id="椭圆形-2" stroke="#40A9FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

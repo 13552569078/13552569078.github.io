@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wirtualtable</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1525.000000, -2390.000000)">
+            <g id="wirtualtable" transform="translate(1525.000000, 2390.000000)">
+                <path d="M28,-5 L53,-5 L53,-5 L53,23 L28,23 C23.581722,23 20,19.418278 20,15 L20,3 C20,-1.418278 23.581722,-5 28,-5 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="13">1</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="41">2</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="97">4</tspan>
+                </text>
+                <path d="M28,51 L53,51 L53,51 L53,79 L28,79 C23.581722,79 20,75.418278 20,71 L20,59 C20,54.581722 23.581722,51 28,51 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="69">3</tspan>
+                </text>
+                <path d="M28,107 L53,107 L53,107 L53,135 L28,135 C23.581722,135 20,131.418278 20,127 L20,115 C20,110.581722 23.581722,107 28,107 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="125">5</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="-5" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="13">Button</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="41">Input</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="51" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="69">Autocomplete</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="107" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="125">Product</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="97">Active</tspan>
+                </text>
+                <path d="M160,-5 L239,-5 C242.313708,-5 245,-2.3137085 245,1 L245,17 C245,20.3137085 242.313708,23 239,23 L160,23 L160,23 L160,-5 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="13">90%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="41">80%</tspan>
+                </text>
+                <path d="M160,51 L239,51 C242.313708,51 245,53.6862915 245,57 L245,73 C245,76.3137085 242.313708,79 239,79 L160,79 L160,79 L160,51 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="69">25%</tspan>
+                </text>
+                <path d="M160,107 L239,107 C242.313708,107 245,109.686292 245,113 L245,129 C245,132.313708 242.313708,135 239,135 L160,135 L160,135 L160,107 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="125">45%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="97">18%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="127" y="160">Loading</tspan>
+                </text>
+                <path d="M113,147.123684 C108.673769,147.123684 105.166667,150.612329 105.166667,154.915789 C105.166667,159.21925 108.673769,162.707895 113,162.707895 C117.326231,162.707895 120.833333,159.21925 120.833333,154.915789 C120.833333,150.612329 117.326231,147.123684 113,147.123684 Z M113,148.118421 C116.773946,148.118421 119.833333,151.161707 119.833333,154.915789 C119.833333,158.669872 116.773946,161.713158 113,161.713158 C109.226054,161.713158 106.166667,158.669872 106.166667,154.915789 C106.166667,151.161707 109.226054,148.118421 113,148.118421 Z" id="椭圆形" fill="#40A9FF" fill-rule="nonzero" opacity="0.2"></path>
+                <path d="M120.333333,154.418421 C120.609476,154.418421 120.833333,154.6411 120.833333,154.915789 C120.833333,159.21925 117.326231,162.707895 113,162.707895 C112.723858,162.707895 112.5,162.485215 112.5,162.210526 C112.5,161.935837 112.723858,161.713158 113,161.713158 C116.773946,161.713158 119.833333,158.669872 119.833333,154.915789 C119.833333,154.6411 120.057191,154.418421 120.333333,154.418421 Z" id="路径" fill="#40A9FF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="180px" viewBox="0 0 265 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>simpletable</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="180" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件图例" transform="translate(-1176.000000, -2390.000000)">
+            <g id="simpletable" transform="translate(1176.000000, 2390.000000)">
+                <path d="M28,46 L53,46 L53,46 L53,74 L28,74 C23.581722,74 20,70.418278 20,66 L20,54 C20,49.581722 23.581722,46 28,46 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="64">1</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="92">2</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="148">4</tspan>
+                </text>
+                <path d="M28,102 L53,102 L53,102 L53,130 L28,130 C23.581722,130 20,126.418278 20,122 L20,110 C20,105.581722 23.581722,102 28,102 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="120">3</tspan>
+                </text>
+                <path d="M28,158 L53,158 L53,158 L53,186 L28,186 C23.581722,186 20,182.418278 20,178 L20,166 C20,161.581722 23.581722,158 28,158 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="32" y="176">5</tspan>
+                </text>
+                <path d="M28,18 L53,18 L53,18 L53,46 L28,46 C23.581722,46 20,42.418278 20,38 L20,26 C20,21.581722 23.581722,18 28,18 Z" id="选择背景色"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="30.4491579" y="36">ID</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="46" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="64">Button</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="92">Input</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="102" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="120">Autocomplete</tspan>
+                </text>
+                <rect id="选择背景色" fill="#E5F6FF" x="53" y="158" width="107" height="28"></rect>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="176">Product</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="148">Active</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="65" y="36">Name</tspan>
+                </text>
+                <path d="M160,46 L239,46 C242.313708,46 245,48.6862915 245,52 L245,68 C245,71.3137085 242.313708,74 239,74 L160,74 L160,74 L160,46 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="64">90%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="92">80%</tspan>
+                </text>
+                <path d="M160,102 L239,102 C242.313708,102 245,104.686292 245,108 L245,124 C245,127.313708 242.313708,130 239,130 L160,130 L160,130 L160,102 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="120">25%</tspan>
+                </text>
+                <path d="M160,158 L239,158 C242.313708,158 245,160.686292 245,164 L245,180 C245,183.313708 242.313708,186 239,186 L160,186 L160,186 L160,158 Z" id="选择背景色" fill="#E5F6FF"></path>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="176">45%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="148">18%</tspan>
+                </text>
+                <text font-size="12" fill="#40A9FF">
+                    <tspan x="172" y="36">Frequency</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
