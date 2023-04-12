@@ -1,1 +1,0 @@
-import{_ as e,o,c,w as n,a}from"./index-cfbbc2b4.js";import{E as r}from"./el-button-74a58297.js";const s={};function _(f,l){const t=r;return o(),c(t,null,{default:n(()=>[a("watch-props")]),_:1})}const d=e(s,[["render",_]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,o,c,w as n,a as r}from"./index-335da5b7.js";import{E as a}from"./el-button-131e2570.js";const s={};function _(f,l){const t=a;return o(),c(t,null,{default:n(()=>[r("ref")]),_:1})}const i=e(s,[["render",_]]);export{i as default};
