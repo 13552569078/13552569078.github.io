@@ -1,0 +1,1 @@
+import{d as n,o as a,c as s,w as c,a as r,u,b as _}from"./index-c007c079.js";import{E as m}from"./el-button-c2f2e878.js";const x=n({__name:"index",setup(p){u();const e=_(),o=()=>{e.push({name:"homepageIndex"})};return(d,i)=>{const t=m;return a(),s(t,{onClick:o},{default:c(()=>[r("登陆页面")]),_:1})}}});export{x as default};
