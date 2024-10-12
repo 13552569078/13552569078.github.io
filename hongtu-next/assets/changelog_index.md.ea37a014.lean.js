@@ -1,0 +1,1 @@
+import{_ as a,f as e,h as l,N as o}from"./chunks/framework.5deb65a5.js";const m=JSON.parse('{"title":"更新日志","description":"","frontmatter":{},"headers":[],"relativePath":"changelog/index.md"}'),i={name:"changelog/index.md"},r=o("",76),t=[r];function n(h,d,c,s,u,b){return e(),l("div",null,t)}const q=a(i,[["render",n]]);export{m as __pageData,q as default};

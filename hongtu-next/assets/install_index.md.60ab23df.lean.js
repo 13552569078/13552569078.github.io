@@ -1,0 +1,1 @@
+import{_ as s,f as n,h as a,N as l}from"./chunks/framework.5deb65a5.js";const d=JSON.parse('{"title":"安装使用说明","description":"","frontmatter":{},"headers":[],"relativePath":"install/index.md"}'),p={name:"install/index.md"},e=l("",21),o=[e];function t(c,r,i,y,D,u){return n(),a("div",null,o)}const B=s(p,[["render",t]]);export{d as __pageData,B as default};

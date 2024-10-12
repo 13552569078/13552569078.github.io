@@ -1,0 +1,24 @@
+<svg viewBox="0 0 130 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="130" height="178"></rect>
+        <linearGradient x1="63.9494081%" y1="60.7648104%" x2="55.9711082%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#0D1E34" stop-opacity="0.102557843" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.29622282" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.976891%" y1="60.9677053%" x2="43.7630452%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#0D1E34" stop-opacity="0.102557843" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.29622282" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon fill="url(#linearGradient-3)" mask="url(#mask-2)" points="-24.3309524 40.8040405 64.764502 129.899495 6.78174593 187.882251 -82.3137085 98.7867966"></polygon>
+        <polygon fill="url(#linearGradient-3)" mask="url(#mask-2)" points="-24.3309524 67.882251 64.764502 156.977705 6.78174593 214.960461 -82.3137085 125.865007"></polygon>
+        <polygon fill="url(#linearGradient-3)" mask="url(#mask-2)" points="-24.3309524 94.9604615 64.764502 184.055916 6.78174593 242.038672 -82.3137085 152.943218"></polygon>
+        <polygon fill="url(#linearGradient-4)" mask="url(#mask-2)" points="153.781746 40.8040405 64.6862915 129.899495 122.669048 187.882251 211.764502 98.7867966"></polygon>
+        <polygon fill="url(#linearGradient-4)" mask="url(#mask-2)" points="153.781746 67.882251 64.6862915 156.977705 122.669048 214.960461 211.764502 125.865007"></polygon>
+        <polygon fill="url(#linearGradient-4)" mask="url(#mask-2)" points="153.781746 94.9604615 64.6862915 184.055916 122.669048 242.038672 211.764502 152.943218"></polygon>
+    </g>
+</svg>

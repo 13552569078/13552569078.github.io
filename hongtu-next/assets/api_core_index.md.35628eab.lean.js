@@ -1,0 +1,1 @@
+import{_ as e,f as s,h as n,N as a}from"./chunks/framework.5deb65a5.js";const m=JSON.parse('{"title":"@hongtu-next/core（核心包）","description":"","frontmatter":{},"headers":[],"relativePath":"api/core/index.md"}'),t={name:"api/core/index.md"},o=a("",5),l=[o];function i(c,r,p,d,_,u){return s(),n("div",null,l)}const x=e(t,[["render",i]]);export{m as __pageData,x as default};

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-bg-rhombus</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FD6161" stop-opacity="0.754370629" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0.218804633" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FD6161" stop-opacity="0.86366368" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FD6161" stop-opacity="0.403654939" offset="0%"></stop>
+            <stop stop-color="#FD6161" offset="99.9259042%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.2266697%" y1="100%" x2="71.2266697%" y2="21.649171%" id="linearGradient-4">
+            <stop stop-color="#FD6161" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="13.4244709%" x2="56.3689747%" y2="97.3810605%" id="linearGradient-5">
+            <stop stop-color="#FD6161" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.0360148%" y1="79.8752575%" x2="71.2266697%" y2="36.3629857%" id="linearGradient-6">
+            <stop stop-color="#FD6161" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="21.0926968%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FD6161" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FD6161" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-471.000000, -4322.000000)" fill-rule="nonzero">
+            <g transform="translate(472.000000, 4323.000000)">
+                <polygon fill="url(#linearGradient-1)" points="62 65 124 81 62 97 7.10542736e-15 81"></polygon>
+                <polygon stroke="url(#linearGradient-3)" fill="url(#linearGradient-2)" points="62 56.516381 121.999024 72 62 87.483619 2.00097632 72"></polygon>
+                <polygon stroke="url(#linearGradient-5)" fill="url(#linearGradient-4)" stroke-linejoin="round" points="7.10542736e-15 4.27435865e-15 62 0 62 88 6.93835321e-13 71.5838854"></polygon>
+                <polygon stroke="url(#linearGradient-5)" fill="url(#linearGradient-4)" stroke-linejoin="round" transform="translate(93.000000, 44.000000) scale(-1, 1) translate(-93.000000, -44.000000) " points="62 4.27435865e-15 124 0 124 88 62 71.5838854"></polygon>
+                <polygon stroke="url(#linearGradient-7)" fill="url(#linearGradient-6)" stroke-linejoin="round" transform="translate(31.000000, 102.500000) rotate(180.000000) translate(-31.000000, -102.500000) " points="7.10542736e-15 81 62 81 62 124 6.93835321e-13 107.535707"></polygon>
+                <polygon stroke="url(#linearGradient-7)" fill="url(#linearGradient-6)" stroke-linejoin="round" transform="translate(93.000000, 102.500000) scale(-1, 1) rotate(-180.000000) translate(-93.000000, -102.500000) " points="62 81 124 81 124 124 62 107.535707"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

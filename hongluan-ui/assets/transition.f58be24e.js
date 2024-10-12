@@ -1,0 +1,1 @@
+import{H as s,L as t,W as n,X as a,a1 as o,Q as _}from"./vue.85e091e9.js";const c=_("section",null,null,-1),p={setup(e){return(l,u)=>{const r=s("right-nav");return t(),n(o,null,[c,a(r)],64)}}};export{p as default};

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 26 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="98.259775%" id="number-bg">
+            <stop stop-color="#121B2B" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#121B2B" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>   
+    <polygon stroke="currentColor" stroke-width="1.5" fill="currentColor" points="13 1 25.1243557 8 25.1243557 22 13 29 0.875644347 22 0.875644347 8"></polygon>
+    <polygon fill="url(#number-bg)" points="13 1 25.1243557 8 25.1243557 22 13 29 0.875644347 22 0.875644347 8"></polygon>
+</svg>

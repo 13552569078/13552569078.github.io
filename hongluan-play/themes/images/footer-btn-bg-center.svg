@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 186 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg</title>
+    <defs>
+        <linearGradient x1="50%" y1="-20.2790833%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#11171E" offset="0%"></stop>
+            <stop stop-color="#121B29" stop-opacity="0.498194554" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.277426034%" x2="50%" y2="144.827269%" id="linearGradient-2">
+            <stop stop-color="#728EA9" offset="0%"></stop>
+            <stop stop-color="#001428" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="框架元素" transform="translate(-867.000000, -327.000000)" fill="url(#linearGradient-1)" stroke="url(#linearGradient-2)" stroke-width="1.29307229">
+            <g id="bg" transform="translate(867.000000, 327.000000)">
+                <path d="M141.74096,0.646536145 L184.386313,41.3534639 L1.61368687,41.3534639 L44.2590397,0.646536145 L141.74096,0.646536145 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

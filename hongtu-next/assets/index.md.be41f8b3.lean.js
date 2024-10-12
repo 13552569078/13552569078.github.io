@@ -1,0 +1,1 @@
+import{_ as a,f as e,h as t,N as o}from"./chunks/framework.5deb65a5.js";const i="/hongtu-next/assets/qrcode.5d4b935a.jpg",f=JSON.parse('{"title":"项目介绍","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),r={name:"index.md"},n=o("",8),h=[n];function s(l,c,d,_,p,u){return e(),t("div",null,h)}const b=a(r,[["render",s]]);export{f as __pageData,b as default};

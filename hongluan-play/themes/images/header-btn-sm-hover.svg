@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="40px" viewBox="0 0 132 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header-btn-sm-hover</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7DE7FF" stop-opacity="0.293214598" offset="0.0155362216%"></stop>
+            <stop stop-color="#10405E" stop-opacity="0.2" offset="99.9212945%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.694369%" y1="50.67252%" x2="50.694369%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#28B9CE" stop-opacity="0.117465786" offset="0%"></stop>
+            <stop stop-color="#A2FDFF" stop-opacity="0.104261705" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#58F6FF" offset="0%"></stop>
+            <stop stop-color="#2EF4FF" stop-opacity="0.400580133" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="1158 911 1262 911 1276 931.130121 1262 951 1158 951 1144 931.130121"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="square">
+        <g id="header-btn-sm-hover" transform="translate(-1144.000000, -911.000000)">
+            <path stroke="url(#linearGradient-2)" stroke-width="4" d="M1260.95482,913 L1273.55868,931.122659 L1260.96259,949 L1159.03741,949 L1146.44132,931.122659 L1159.04518,913 L1260.95482,913 Z" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+            <path stroke="url(#linearGradient-3)" stroke-width="1" d="M1261.7387,911.5 L1275.38967,931.128256 L1261.74065,950.5 L1158.25935,950.5 L1144.61033,931.128256 L1158.2613,911.5 L1261.7387,911.5 Z"></path>
+        </g>
+    </g>
+</svg>

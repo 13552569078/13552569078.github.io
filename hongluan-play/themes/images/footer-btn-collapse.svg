@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 181 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="-17.2077701%" x2="50%" y2="100%" id="linearGradient-h8gojen0no-1">
+            <stop stop-color="#55647A" offset="0%"></stop>
+            <stop stop-color="#364459" stop-opacity="0.854605192" offset="46.7689781%"></stop>
+            <stop stop-color="#121B29" stop-opacity="0.498194554" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.159572401%" x2="50%" y2="109.637564%" id="linearGradient-h8gojen0no-2">
+            <stop stop-color="#99BBDC" offset="0%"></stop>
+            <stop stop-color="#001428" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="路径" stroke="url(#linearGradient-h8gojen0no-2)" stroke-width="1.72409639" fill="url(#linearGradient-h8gojen0no-1)" points="2.5 42 47.2746182 1 62.6933077 1 73.6945336 12.9518072 106.511768 12.9518072 116.823739 1 132.987722 1 178 42"></polygon>
+    </g>
+</svg>

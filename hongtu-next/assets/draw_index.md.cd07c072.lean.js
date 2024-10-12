@@ -1,0 +1,1 @@
+import{_ as s,f as a,h as n,N as l}from"./chunks/framework.5deb65a5.js";const B=JSON.parse('{"title":"地图标绘（hongtu-draw）","description":"","frontmatter":{},"headers":[],"relativePath":"draw/index.md"}'),p={name:"draw/index.md"},o=l("",34),e=[o];function r(t,c,i,D,y,F){return a(),n("div",null,e)}const u=s(p,[["render",r]]);export{B as __pageData,u as default};

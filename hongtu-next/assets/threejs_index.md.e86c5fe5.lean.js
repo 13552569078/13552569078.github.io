@@ -1,0 +1,1 @@
+import{_ as e,f as l,h as a,N as o}from"./chunks/framework.5deb65a5.js";const _=JSON.parse('{"title":"Mapbox & ThreeJS 互动方法","description":"","frontmatter":{},"headers":[],"relativePath":"threejs/index.md"}'),t={name:"threejs/index.md"},r=o("",13),i=[r];function s(p,d,h,m,c,n){return l(),a("div",null,i)}const b=e(t,[["render",s]]);export{_ as __pageData,b as default};
